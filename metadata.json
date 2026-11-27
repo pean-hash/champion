@@ -1,0 +1,6 @@
+{
+  "name": "獎不完公社",
+  "description": "活潑撞色潮流海報風的互動式幽默獲獎動態牆與社群分享頁，支援完全自訂獎項名稱、浮誇得獎事蹟、即時留言互動與高畫質海報匯出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
